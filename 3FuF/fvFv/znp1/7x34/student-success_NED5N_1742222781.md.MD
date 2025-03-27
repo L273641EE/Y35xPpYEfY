@@ -8,7 +8,6 @@ Overall, Alumni Connect is designed to facilitate interaction and engagement bet
 
 Here are some snapshots
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826577-737dec66-9a8c-43db-b0fc-1258c17b77dd.png"><img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826642-9c7c3695-a684-472f-9824-8fa4572e1720.png">
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826681-ffc06865-46eb-47be-ae5a-9e85988d4823.png">
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826700-ac183fed-2d47-4f5e-a33f-2d099e91ab9d.png">
