@@ -32,7 +32,6 @@ RUN pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 RUN pip3 install wave scipy matplotlib tensorflow-cpu==2.5.3 numpy==1.19.2 requests flask waitress grpcio==1.34.0 grpcio-tools==1.34.0 protobuf
 
-RUN echo $'cd /asrt_server \n python3 asrserver_http.py & \n python3 asrserver_grpc.py' > /asrt_server/start.sh && chmod +x /asrt_server/start.sh
 
 # refer: https://docs.docker.com/engine/reference/builder/#expose
 EXPOSE 20001/tcp 20002/tcp
