@@ -2,7 +2,6 @@ Alumni Connect is a web application that provides three types of user roles: adm
 
 The alumni role enables alumni to update their higher education and employment status, and create posts on the platform for other alumni and students to view and comment on.
 
-The student role allows students to browse and comment on alumni posts, and search for alumni based on their interests.
 
 Overall, Alumni Connect is designed to facilitate interaction and engagement between alumni and students, as well as provide valuable insights into alumni success.
 
