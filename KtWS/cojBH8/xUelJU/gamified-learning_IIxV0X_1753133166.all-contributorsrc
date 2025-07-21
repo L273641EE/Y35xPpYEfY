@@ -1,0 +1,98 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "maxcell",
+      "name": "Prince Wilson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8431042?v=4",
+      "profile": "https://maxcell.me",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "BolajiAyodeji",
+      "name": "Bolaji Ayodeji",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30334776?v=4",
+      "profile": "https://bolajiayodeji.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "andregce",
+      "name": "Andre Goncalves",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25963571?v=4",
+      "profile": "https://github.com/andregce",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "angiejones",
+      "name": "Angie Jones",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15972783?v=4",
+      "profile": "http://angiejones.tech",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Hazetheai",
+      "name": "Jake Riordan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/38506433?v=4",
+      "profile": "https://jakeriordan.dev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "TejasQ",
+      "name": "Tejas Kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9947422?v=4",
+      "profile": "https://twitter.com/tejaskumar_",
+      "contributions": [
+        "code",
+        "platform"
+      ]
+    },
+    {
+      "login": "SQUADBCHRIS",
+      "name": "Chris",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50125876?v=4",
+      "profile": "https://github.com/SQUADBCHRIS",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "sgrove",
+      "name": "Sean Grove",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35296?v=4",
+      "profile": "http://www.riseos.com",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "benna100",
+      "name": "benna100",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4102007?v=4",
+      "profile": "https://github.com/benna100",
+      "contributions": [
+        "test",
+        "bug",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "mentored.dev",
+  "projectOwner": "jsjoeio",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
