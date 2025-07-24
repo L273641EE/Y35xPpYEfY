@@ -1,0 +1,7 @@
+node_modules
+dist
+logs
+instances/
+.pm2/
+statistics.tsv
+.env
